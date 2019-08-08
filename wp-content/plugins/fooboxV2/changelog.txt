@@ -1,0 +1,135 @@
+FooBox V2 Changelog
+===================
+
+> Last updated 22 Nov 2013
+
+2013.11.22 - version 2.1.0.4
+ * Fixed bug with colour, icon and loader settings not saving
+
+2013.11.19 - version 2.1.0.3
+ * Added setting to enable/disable iFrame captions
+ * Added setting to enable/disable HTML captions
+
+2013.11.17 - version 2.1.0.2
+ * Fixed missing captions bug
+
+2013.11.15 - version 2.1.0.1
+ * Added 4 more arrow icons styles
+ * Added shortcode to autoload foobox : [foobox-auto-open]
+ * Fixed older jQuery compatibility issues
+ * Multiple bug fixes
+ * Changed FB share link to use description
+
+2013.11.12 - version 2.0.9.5
+ * Disable browser fullscreen API on safari mac
+ * Caption size fix
+ * ManageWP integration
+
+2013.11.10 - version 2.0.9.4.1
+ * Fixed tiled-gallery captions
+ * Fixed duplicate captions in JIG
+ * Fixed captions in certain scenarios
+
+2013.11.08 - version 2.0.9.3
+ * Fixed so that index is retained when using alwaysInit option
+
+2013.11.06 - version 2.0.9.2
+ * Compatibility for JIG videos and iFrames
+
+2013.11.06 - version 2.0.9.1.1
+ * Fixed issue with facebook share with html inline
+
+2013.11.05 - version 2.0.9.0
+ * Fixed no-social issue when clicking images
+ * Exclude videos from iFrame handler
+ * Preload foobox font to get around blank loader on first load
+
+2013.11.05 - version 2.0.8.9
+ * Added support for NextGen2 Pro Masonry galleries
+
+2013.11.04 - version 2.0.8.8
+ * Added options for showing social icons for iFrames and inline html
+ * Fixed social sharing inconsistencies
+ * Added support for NextGen2 Pro galleries
+
+2013.11.04 - version 2.0.8.7
+ * Close overlay now works in fullscreen mode
+ * no-social now works when hover is enabled
+
+2013.10.23 - version 2.0.8.6
+ * Better compatibility with FooBox Multisite Extension
+
+2013.10.19 - version 2.0.8.5
+ * Better iframe support
+ * Better support for wufoo forms
+ * Added support for full height buttons
+
+2013.10.18 - version 2.0.8.4
+ * Updated foolic_validator
+ * Included new social icons
+ * Fixed jquery options encoding
+ * Added destroy function
+ * Fixed 'load more' and 'filter' bugs with JIG
+ * Fixed excludes bug
+
+2013.10.16 - version 2.0.8.2
+ * Updated pluginbase
+ * Updated to latest FooBox JS & CSS
+
+2013.10.13 - version 2.0.8.0
+ * MultiSite compatibility
+ * Better YouTube URL parsing
+ * Add no-caption functionality
+
+2013.10.10 - version 2.0.7.9
+ * Fixed iFrame issue on iOS
+ * Fixed no-social check
+ * HTML size tweak
+ * Deeplinking works now on HTML and iFrames
+
+2013.10.06 - version 2.0.7.8
+ * Fixed deeplink binding issue
+ * Fixed social stacking
+
+2013.10.06 - version 2.0.7.7
+ * Using a proper debug JS file
+
+2013.10.06 - version 2.0.7.6
+ * Reordered script generation priority
+
+2013.10.06 - version 2.0.7.5
+ * Fixed swipe direction
+ * Fixed reinit bug
+ * Fixed event bubbling when binding to document
+ * Added CSS3 transitions (if browser supports transitions)
+ * Fixed video autoplay
+
+2013.10.03 - version 2.0.7.4
+ * Fixed caption link bug
+ * Removed title attributes from buttons
+ * Swipe now works of modal not just image
+ * Fixes for captions and socials
+ * Dark theme tweaks
+
+2013.10.03 - version 2.0.7.3
+ * Reverted fullscreen play / pause to not be centered (but can be centered via an option)
+ * Fixed preloading
+ * Fixed swipe on mobile
+ * Fixed ESC issue in fullscreen
+ * Fixed stretch in fullscreen.
+ * other minor tweaks and fixes
+
+2013.10.02 - version 2.0.6.0
+ * Fixed bug with jQuery 1.8 and below
+ * other minor tweaks and fixes
+
+2013.09.10 - version 2.0.3
+ * Included more robust CSS
+ * Fixed const references from settings
+
+2013.09.09 - version 2.0.2
+ * Fixed caption titles
+ * Added new caption title option
+
+2013.09.03 - version 2.0.1
+ * Beta of V2 released

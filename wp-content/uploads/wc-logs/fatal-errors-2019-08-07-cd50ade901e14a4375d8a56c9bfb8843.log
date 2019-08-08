@@ -1,0 +1,27 @@
+2019-08-07T12:22:32+00:00 CRITICAL Uncaught Error: [] operator not supported for strings in D:\xampp_7.3.7\htdocs\_process\pemuda\wordpress\wp-content\plugins\revslider\includes\framework\base-admin.class.php:71
+Stack trace:
+#0 D:\xampp_7.3.7\htdocs\_process\pemuda\wordpress\wp-content\plugins\revslider\admin\revslider-admin.class.php(572): RevSliderBaseAdmin::addMetaBox('Revolution Slid...', '', Array, NULL)
+#1 D:\xampp_7.3.7\htdocs\_process\pemuda\wordpress\wp-content\plugins\revslider\admin\revslider-admin.class.php(73): RevSliderAdmin->addSliderMetaBox()
+#2 D:\xampp_7.3.7\htdocs\_process\pemuda\wordpress\wp-content\plugins\revslider\admin\revslider-admin.class.php(44): RevSliderAdmin->init()
+#3 D:\xampp_7.3.7\htdocs\_process\pemuda\wordpress\wp-content\plugins\revslider\revslider.php(162): RevSliderAdmin->__construct('D:\\xampp_7.3.7\\...')
+#4 D:\xampp_7.3.7\htdocs\_process\pemuda\wordpress\wp-admin\includes\plugin.php(641): include_once('D:\\xampp_7.3.7\\...')
+#5 D:\xampp_7.3.7\htdocs\_process\pemuda\wordpress\wp-admin\includes\plugin.php in D:\xampp_7.3.7\htdocs\_process\pemuda\wordpress\wp-content\plugins\revslider\includes\framework\base-admin.class.php on line 71
+
+2019-08-07T12:22:36+00:00 CRITICAL Uncaught Error: [] operator not supported for strings in D:\xampp_7.3.7\htdocs\_process\pemuda\wordpress\wp-content\plugins\revslider\includes\framework\base-admin.class.php:71
+Stack trace:
+#0 D:\xampp_7.3.7\htdocs\_process\pemuda\wordpress\wp-content\plugins\revslider\admin\revslider-admin.class.php(572): RevSliderBaseAdmin::addMetaBox('Revolution Slid...', '', Array, NULL)
+#1 D:\xampp_7.3.7\htdocs\_process\pemuda\wordpress\wp-content\plugins\revslider\admin\revslider-admin.class.php(73): RevSliderAdmin->addSliderMetaBox()
+#2 D:\xampp_7.3.7\htdocs\_process\pemuda\wordpress\wp-content\plugins\revslider\admin\revslider-admin.class.php(44): RevSliderAdmin->init()
+#3 D:\xampp_7.3.7\htdocs\_process\pemuda\wordpress\wp-content\plugins\revslider\revslider.php(162): RevSliderAdmin->__construct('D:\\xampp_7.3.7\\...')
+#4 D:\xampp_7.3.7\htdocs\_process\pemuda\wordpress\wp-admin\includes\plugin.php(2141): include('D:\\xampp_7.3.7\\...')
+#5 D:\xampp_7.3.7\htdocs\_process\pemuda\wordpress\wp-admin\plugins.php(175): plugi in D:\xampp_7.3.7\htdocs\_process\pemuda\wordpress\wp-content\plugins\revslider\includes\framework\base-admin.class.php on line 71
+
+2019-08-07T12:22:37+00:00 CRITICAL Uncaught Error: [] operator not supported for strings in D:\xampp_7.3.7\htdocs\_process\pemuda\wordpress\wp-content\plugins\revslider\includes\framework\base-admin.class.php:71
+Stack trace:
+#0 D:\xampp_7.3.7\htdocs\_process\pemuda\wordpress\wp-content\plugins\revslider\admin\revslider-admin.class.php(572): RevSliderBaseAdmin::addMetaBox('Revolution Slid...', '', Array, NULL)
+#1 D:\xampp_7.3.7\htdocs\_process\pemuda\wordpress\wp-content\plugins\revslider\admin\revslider-admin.class.php(73): RevSliderAdmin->addSliderMetaBox()
+#2 D:\xampp_7.3.7\htdocs\_process\pemuda\wordpress\wp-content\plugins\revslider\admin\revslider-admin.class.php(44): RevSliderAdmin->init()
+#3 D:\xampp_7.3.7\htdocs\_process\pemuda\wordpress\wp-content\plugins\revslider\revslider.php(162): RevSliderAdmin->__construct('D:\\xampp_7.3.7\\...')
+#4 D:\xampp_7.3.7\htdocs\_process\pemuda\wordpress\wp-admin\includes\plugin.php(2141): include('D:\\xampp_7.3.7\\...')
+#5 D:\xampp_7.3.7\htdocs\_process\pemuda\wordpress\wp-admin\plugins.php(175): plugi in D:\xampp_7.3.7\htdocs\_process\pemuda\wordpress\wp-content\plugins\revslider\includes\framework\base-admin.class.php on line 71
+
